@@ -38,3 +38,8 @@ There **two** other ability you can unlock later in the game, Resonance & Hereti
 
 **Resonance** is more complicated, when you unlock it you get to pick *one* of *three* Resonance's.
 When you select which one you want the keybind is set to 'C' and has a thirty second cooldown
+Resonance can be one of **three** classes: mobility, offence, defence.
+Mobility being teleportion and portals
+Offence is being able to summon a variety of weapons
+Defence allows you to summon protective barriers 
+
